@@ -10,7 +10,7 @@ for i in range(50):
     opiniao = int((input('Digite 1-Excelente 2-Bom 3-Ruim: ')))
     print('Obrigado por participar!')
     print('*'*30)
-    #Fazendo a leitura e armazenamento correto da resposta utilizando o if, elif e else.
+#Fazendo a leitura e armazenamento correto da resposta utilizando o if, elif e else.
     if opiniao == 1:
         n1 += 1
     elif opiniao == 2:
